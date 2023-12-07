@@ -1,0 +1,15 @@
+{
+  "name": "saleo-final-coding-challenge",
+  "version": "1.0.0",
+  "description": "## A. One More Date Function",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
